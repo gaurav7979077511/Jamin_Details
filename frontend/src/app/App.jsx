@@ -9,7 +9,10 @@ import { makeFlow } from '../utils/tree';
 import TreeNodeCard from '../components/tree/TreeNodeCard';
 import Modal from '../components/common/Modal';
 
-const loginRequest = (payload) => api.post('/login', payload).then((r) => r.data);
+const loginRequest = (payload) => api.post('/login', {
+  ...payload,
+  email: payload.email.trim().toLowerCase()
+}).then((r) => r.data);
 
 export default function App() {
   const queryClient = useQueryClient();
