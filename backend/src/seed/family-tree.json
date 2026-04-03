@@ -1,0 +1,378 @@
+{
+  "id": "salik_1",
+  "name": "Salik Manjhi",
+  "hindiName": "सालिक मांझी",
+  "isLate": true,
+  "isRoot": true,
+  "children": [
+    {
+      "id": "hargovind_1",
+      "name": "Hargovind Manjhi",
+      "hindiName": "हरगोविंद मांझी",
+      "isLate": true,
+      "children": [
+        {
+          "id": "ramji_1",
+          "name": "Ramji Manjhi",
+          "hindiName": "रामजी मांझी",
+          "isLate": true,
+          "children": [
+            {
+              "id": "shivshankar_1",
+              "name": "Late Shivshankar Ram",
+              "hindiName": "स्व. शिवशंकर राम",
+              "isLate": true,
+              "children": [
+                {
+                  "id": "madan_1",
+                  "name": "Madan Ram",
+                  "hindiName": "मदन राम"
+                }
+              ]
+            },
+            {
+              "id": "udeshwar_1",
+              "name": "Late Udeshwar Ram",
+              "hindiName": "स्व. उदेश्वर राम",
+              "isLate": true,
+              "children": [
+                {
+                  "id": "dadan_1",
+                  "name": "Dadan Ram",
+                  "hindiName": "दादन राम"
+                },
+                {
+                  "id": "satyajeet_1",
+                  "name": "Satyajeet Paswan",
+                  "hindiName": "सत्यजीत पासवान"
+                }
+              ]
+            },
+            {
+              "id": "baijnath_1",
+              "name": "Late Baijnath Ram",
+              "hindiName": "स्व. बैजनाथ राम",
+              "isLate": true,
+              "children": [
+                {
+                  "id": "manoj_1",
+                  "name": "Manoj Paswan",
+                  "hindiName": "मनोज पासवान"
+                }
+              ]
+            },
+            {
+              "id": "bikesh_1",
+              "name": "Bikesh Ram",
+              "hindiName": "बिकेश राम"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "budhnath_1",
+      "name": "Budhnath Manjhi",
+      "hindiName": "बुधनाथ मांझी",
+      "isLate": true,
+      "children": [
+        {
+          "id": "mahavir_1",
+          "name": "Late Mahavir Manjhi",
+          "hindiName": "स्व. महावीर मांझी",
+          "isLate": true,
+          "children": [
+            {
+              "id": "prakash_1",
+              "name": "Late Prakash Manjhi",
+              "hindiName": "स्व. प्रकाश मांझी",
+              "isLate": true,
+              "children": [
+                {
+                  "id": "krishna_1",
+                  "name": "Krishna Paswan",
+                  "hindiName": "कृष्ण पासवान"
+                },
+                {
+                  "id": "sudama_1",
+                  "name": "Sudama Paswan",
+                  "hindiName": "सुदामा पासवान"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prithvi_1",
+      "name": "Prithvi Manjhi",
+      "hindiName": "पृथ्वी मांझी",
+      "isLate": true,
+      "children": [
+        {
+          "id": "rameshwar_1",
+          "name": "Rameshwar Manjhi",
+          "hindiName": "रामेश्वर मांझी",
+          "isLate": true,
+          "children": [
+            {
+              "id": "sivpujan_1",
+              "name": "Sivpujan Manjhi",
+              "hindiName": "शिवपूजन मांझी"
+            },
+            {
+              "id": "surajdev_1",
+              "name": "Surajdev Manjhi",
+              "hindiName": "सूरजदेव मांझी"
+            }
+          ]
+        },
+        {
+          "id": "kameshwar_1",
+          "name": "Kameshwar Manjhi",
+          "hindiName": "कामेश्वर मांझी",
+          "children": [
+            {
+              "id": "rituiya_1",
+              "name": "Rituiya Devi",
+              "hindiName": "रितुइया देवी"
+            },
+            {
+              "id": "biguniya_1",
+              "name": "Biguniya Devi",
+              "hindiName": "बिगुनिया देवी"
+            },
+            {
+              "id": "kago_1",
+              "name": "Kago Devi",
+              "hindiName": "कागो देवी",
+              "children": [
+                {
+                  "id": "rinku_1",
+                  "name": "Rinku Paswan",
+                  "hindiName": "रिंकू पासवान"
+                }
+              ]
+            },
+            {
+              "id": "indu_1",
+              "name": "Indu Devi",
+              "hindiName": "इंदु देवी"
+            },
+            {
+              "id": "bimla_1",
+              "name": "Bimla Devi",
+              "hindiName": "बिमला देवी"
+            },
+            {
+              "id": "kantiya_1",
+              "name": "Kantiya Devi",
+              "hindiName": "कांतिया देवी"
+            },
+            {
+              "id": "lalti_1",
+              "name": "Lalti Devi",
+              "hindiName": "लालती देवी"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rambrath_1",
+      "name": "Rambrath Manjhi",
+      "hindiName": "रामब्रथ मांझी",
+      "isLate": true,
+      "children": [
+        {
+          "id": "mahendra_1",
+          "name": "Mahendra Manjhi",
+          "hindiName": "महेंद्र मांझी",
+          "isLate": true,
+          "children": [
+            {
+              "id": "bhola_1",
+              "name": "Bhola Ram",
+              "hindiName": "भोला राम",
+              "children": [
+                {
+                  "id": "ajay_1",
+                  "name": "Ajay Kumar Paswan",
+                  "hindiName": "अजय कुमार पासवान"
+                }
+              ]
+            },
+            {
+              "id": "udit_1",
+              "name": "Udit Ram",
+              "hindiName": "उदित राम",
+              "children": [
+                {
+                  "id": "pawan_1",
+                  "name": "Pawan Kumar Paswan",
+                  "hindiName": "पवन कुमार पासवान"
+                }
+              ]
+            },
+            {
+              "id": "lalbihari_1",
+              "name": "Lalbihari Ram",
+              "hindiName": "लालबिहारी राम",
+              "children": [
+                {
+                  "id": "ranjay_1",
+                  "name": "Ranjay Kumar Paswan",
+                  "hindiName": "रंजय कुमार पासवान"
+                },
+                {
+                  "id": "bipin_1",
+                  "name": "Bipin Kumar Paswan",
+                  "hindiName": "बिपिन कुमार पासवान"
+                }
+              ]
+            },
+            {
+              "id": "suresh_1",
+              "name": "Suresh Ram",
+              "hindiName": "सुरेश राम",
+              "children": [
+                {
+                  "id": "gaurav_1",
+                  "name": "Kumar Gaurav",
+                  "hindiName": "कुमार गौरव"
+                },
+                {
+                  "id": "ayush_1",
+                  "name": "Ayush Kumar",
+                  "hindiName": "आयुष कुमार"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chandrabhan_1",
+          "name": "Chandrabhan Manjhi",
+          "hindiName": "चंद्रभान मांझी",
+          "isLate": true,
+          "children": [
+            {
+              "id": "swarath_1",
+              "name": "Late Swarath Ram",
+              "hindiName": "स्व. स्वरथ राम",
+              "isLate": true,
+              "children": [
+                {
+                  "id": "akshay_1",
+                  "name": "Akshay Paswan",
+                  "hindiName": "अक्षय पासवान"
+                },
+                {
+                  "id": "umesh_1",
+                  "name": "Umesh Paswan",
+                  "hindiName": "उमेश पासवान"
+                },
+                {
+                  "id": "anil_1",
+                  "name": "Late Anil Kumar Paswan",
+                  "hindiName": "स्व. अनिल कुमार पासवान",
+                  "isLate": true
+                }
+              ]
+            },
+            {
+              "id": "nandeo_1",
+              "name": "Late Nandeo Ram",
+              "hindiName": "स्व. ननदेव राम",
+              "isLate": true,
+              "children": [
+                {
+                  "id": "jogender_1",
+                  "name": "Jogender Paswan",
+                  "hindiName": "जोगेंद्र पासवान"
+                },
+                {
+                  "id": "nagender_1",
+                  "name": "Nagender Paswan",
+                  "hindiName": "नगेंद्र पासवान"
+                },
+                {
+                  "id": "birender_1",
+                  "name": "Birender Paswan",
+                  "hindiName": "वीरेंद्र पासवान"
+                }
+              ]
+            },
+            {
+              "id": "tusan_1",
+              "name": "Tusan Ram",
+              "hindiName": "तुसन राम",
+              "children": [
+                {
+                  "id": "jitender_1",
+                  "name": "Jitender Paswan",
+                  "hindiName": "जितेंद्र पासवान"
+                },
+                {
+                  "id": "satender_1",
+                  "name": "Satender Paswan",
+                  "hindiName": "सतेंद्र पासवान"
+                }
+              ]
+            },
+            {
+              "id": "rajkumar_1",
+              "name": "Late Rajkumar Ram",
+              "hindiName": "स्व. राजकुमार राम",
+              "isLate": true,
+              "children": [
+                {
+                  "id": "sudama_2",
+                  "name": "Sudama Paswan",
+                  "hindiName": "सुदामा पासवान"
+                }
+              ]
+            },
+            {
+              "id": "amardayal_1",
+              "name": "Late Amardayal Ram",
+              "hindiName": "स्व. अमरदयाल राम",
+              "isLate": true,
+              "children": [
+                {
+                  "id": "ashok_1",
+                  "name": "Ashok Kumar Paswan",
+                  "hindiName": "अशोक कुमार पासवान"
+                },
+                {
+                  "id": "santosh_1",
+                  "name": "Santosh Kumar Paswan",
+                  "hindiName": "संतोष कुमार पासवान"
+                }
+              ]
+            },
+            {
+              "id": "birbal_1",
+              "name": "Late Birbal Ram",
+              "hindiName": "स्व. बीरबल राम",
+              "isLate": true,
+              "children": [
+                {
+                  "id": "sandeep_1",
+                  "name": "Sandeep Kumar Paswan",
+                  "hindiName": "संदीप कुमार पासवान"
+                },
+                {
+                  "id": "yashwant_1",
+                  "name": "Yashwant Kumar Paswan",
+                  "hindiName": "यशवंत कुमार पासवान"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
