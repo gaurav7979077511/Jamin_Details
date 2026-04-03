@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import ReactFlow, { Background, Controls } from 'react-flow-renderer';
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
 import toast from 'react-hot-toast';
@@ -18,7 +18,6 @@ export default function App() {
   const queryClient = useQueryClient();
   const { user, token, setAuth, logout } = useAuthStore();
   const { collapsed, toggleNode, collapseAll, expandAll } = useTreeStore();
-  const [form, setForm] = useState({ email: 'editor@example.com', password: 'password123' });
   const [memberForm, setMemberForm] = useState({ id: '', name: '', hindiName: '', isLate: false, parentId: '' });
   const [memberModal, setMemberModal] = useState({ open: false, mode: 'create' });
   const [previewOpen, setPreviewOpen] = useState(false);
@@ -31,6 +30,12 @@ export default function App() {
     onSuccess: (data) => setAuth(data),
     onError: (e) => toast.error(e.response?.data?.message || 'Login failed')
   });
+
+  useEffect(() => {
+    if (!token && !loginMutation.isPending) {
+      loginMutation.mutate({ email: 'editor@example.com', password: 'password123' });
+    }
+  }, [token, loginMutation]);
 
   const members = useQuery({ queryKey: ['members'], queryFn: () => api.get('/members').then((r) => r.data), enabled: Boolean(token) });
   const views = useQuery({ queryKey: ['views'], queryFn: () => api.get('/views').then((r) => r.data), enabled: Boolean(token) });
@@ -107,11 +112,9 @@ export default function App() {
   if (!token) {
     return (
       <div className="min-h-screen flex items-center justify-center">
-        <div className="bg-white p-8 rounded-xl shadow w-full max-w-md">
-          <h1 className="text-xl font-semibold mb-4">Vanshawali Login</h1>
-          <input className="border rounded p-2 w-full mb-2" value={form.email} onChange={(e) => setForm((s) => ({ ...s, email: e.target.value }))} />
-          <input className="border rounded p-2 w-full mb-3" type="password" value={form.password} onChange={(e) => setForm((s) => ({ ...s, password: e.target.value }))} />
-          <button className="bg-blue-600 text-white px-4 py-2 rounded w-full" onClick={() => loginMutation.mutate(form)}>Login</button>
+        <div className="bg-white p-8 rounded-xl shadow w-full max-w-md text-center">
+          <h1 className="text-xl font-semibold mb-2">Loading Family Chart</h1>
+          <p className="text-sm text-slate-500">Signing in automatically with the default editor account...</p>
         </div>
       </div>
     );
