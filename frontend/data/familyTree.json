@@ -1,0 +1,179 @@
+{
+  "englishName": "Salik Manjhi",
+  "hindiName": "सालिक मांझी",
+  "children": [
+    {
+      "englishName": "Hargovind Manjhi",
+      "hindiName": "हरगोविंद मांझी",
+      "children": [
+        {
+          "englishName": "Ramji Manjhi",
+          "hindiName": "रामजी मांझी",
+          "children": [
+            {
+              "englishName": "Late Shivshankar Ram",
+              "hindiName": "स्व. शिवशंकर राम",
+              "children": [{ "englishName": "Madan Ram", "hindiName": "मदन राम", "children": [] }]
+            },
+            {
+              "englishName": "Late Udeshwar Ram",
+              "hindiName": "स्व. उद्देश्वर राम",
+              "children": [
+                { "englishName": "Dadan Ram", "hindiName": "दादन राम", "children": [] },
+                { "englishName": "Satyajeet Paswan", "hindiName": "सत्यजीत पासवान", "children": [] }
+              ]
+            },
+            {
+              "englishName": "Late Baijnath Ram",
+              "hindiName": "स्व. बैजनाथ राम",
+              "children": [{ "englishName": "Manoj Paswan", "hindiName": "मनोज पासवान", "children": [] }]
+            },
+            { "englishName": "Bikesh Ram", "hindiName": "बिकेश राम", "children": [] }
+          ]
+        }
+      ]
+    },
+    {
+      "englishName": "Budhnath Manjhi",
+      "hindiName": "बुधनाथ मांझी",
+      "children": [
+        {
+          "englishName": "Late Mahavir Manjhi",
+          "hindiName": "स्व. महावीर मांझी",
+          "children": [
+            {
+              "englishName": "Late Prakash Manjhi",
+              "hindiName": "स्व. प्रकाश मांझी",
+              "children": [
+                { "englishName": "Krishna Paswan", "hindiName": "कृष्णा पासवान", "children": [] },
+                { "englishName": "Sudama Paswan", "hindiName": "सुदामा पासवान", "children": [] }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "englishName": "Prithvi Manjhi",
+      "hindiName": "पृथ्वी मांझी",
+      "children": [
+        {
+          "englishName": "Rameshwar Manjhi",
+          "hindiName": "रामेश्वर मांझी",
+          "children": [
+            { "englishName": "Sivpujan Manjhi", "hindiName": "सिवपूजन मांझी", "children": [] },
+            { "englishName": "Surajdev Manjhi", "hindiName": "सूरजदेव मांझी", "children": [] }
+          ]
+        },
+        {
+          "englishName": "Kameshwar Manjhi",
+          "hindiName": "कामेश्वर मांझी",
+          "children": [
+            { "englishName": "Rituiya Devi", "hindiName": "रितुइया देवी", "children": [] },
+            { "englishName": "Biguniya Devi", "hindiName": "बिगुनिया देवी", "children": [] },
+            {
+              "englishName": "Kago Devi",
+              "hindiName": "कागो देवी",
+              "children": [{ "englishName": "Rinku Paswan", "hindiName": "रिंकू पासवान", "children": [] }]
+            },
+            { "englishName": "Indu Devi", "hindiName": "इंदु देवी", "children": [] },
+            { "englishName": "Bimla Devi", "hindiName": "बिमला देवी", "children": [] },
+            { "englishName": "Kantiya Devi", "hindiName": "कांतिया देवी", "children": [] },
+            { "englishName": "Lalti Devi", "hindiName": "लालती देवी", "children": [] }
+          ]
+        }
+      ]
+    },
+    {
+      "englishName": "Rambrath Manjhi",
+      "hindiName": "रामब्रत मांझी",
+      "children": [
+        {
+          "englishName": "Mahendra Manjhi",
+          "hindiName": "महेंद्र मांझी",
+          "children": [
+            {
+              "englishName": "Bhola Ram",
+              "hindiName": "भोला राम",
+              "children": [{ "englishName": "Ajay Kumar Paswan", "hindiName": "अजय कुमार पासवान", "children": [] }]
+            },
+            {
+              "englishName": "Udit Ram",
+              "hindiName": "उदित राम",
+              "children": [{ "englishName": "Pawan Kumar Paswan", "hindiName": "पवन कुमार पासवान", "children": [] }]
+            },
+            {
+              "englishName": "Lalbihari Ram",
+              "hindiName": "लालबिहारी राम",
+              "children": [
+                { "englishName": "Ranjay Kumar Paswan", "hindiName": "रंजय कुमार पासवान", "children": [] },
+                { "englishName": "Bipin Kumar Paswan", "hindiName": "बिपिन कुमार पासवान", "children": [] }
+              ]
+            },
+            {
+              "englishName": "Suresh Ram",
+              "hindiName": "सुरेश राम",
+              "children": [
+                { "englishName": "Kumar Gaurav", "hindiName": "कुमार गौरव", "children": [] },
+                { "englishName": "Ayush Kumar", "hindiName": "आयुष कुमार", "children": [] }
+              ]
+            }
+          ]
+        },
+        {
+          "englishName": "Chandrabhan Manjhi",
+          "hindiName": "चंद्रभान मांझी",
+          "children": [
+            {
+              "englishName": "Late Swarath Ram",
+              "hindiName": "स्व. स्वरथ राम",
+              "children": [
+                { "englishName": "Akshay Paswan", "hindiName": "अक्षय पासवान", "children": [] },
+                { "englishName": "Umesh Paswan", "hindiName": "उमेश पासवान", "children": [] },
+                { "englishName": "Late Anil Kumar Paswan", "hindiName": "स्व. अनिल कुमार पासवान", "children": [] }
+              ]
+            },
+            {
+              "englishName": "Late Nandeo Ram",
+              "hindiName": "स्व. नन्देओ राम",
+              "children": [
+                { "englishName": "Jogender Paswan", "hindiName": "जोगेन्द्र पासवान", "children": [] },
+                { "englishName": "Nagender Paswan", "hindiName": "नगेन्द्र पासवान", "children": [] },
+                { "englishName": "Birender Paswan", "hindiName": "बिरेन्द्र पासवान", "children": [] }
+              ]
+            },
+            {
+              "englishName": "Tusan Ram",
+              "hindiName": "तुसन राम",
+              "children": [
+                { "englishName": "Jitender Paswan", "hindiName": "जीतेन्द्र पासवान", "children": [] },
+                { "englishName": "Satender Paswan", "hindiName": "सतेन्द्र पासवान", "children": [] }
+              ]
+            },
+            {
+              "englishName": "Late Rajkumar Ram",
+              "hindiName": "स्व. राजकुमार राम",
+              "children": [{ "englishName": "Sudama Paswan", "hindiName": "सुदामा पासवान", "children": [] }]
+            },
+            {
+              "englishName": "Late Amardayal Ram",
+              "hindiName": "स्व. अमरदयाल राम",
+              "children": [
+                { "englishName": "Ashok Kumar Paswan", "hindiName": "अशोक कुमार पासवान", "children": [] },
+                { "englishName": "Santosh Kumar Paswan", "hindiName": "संतोष कुमार पासवान", "children": [] }
+              ]
+            },
+            {
+              "englishName": "Late Birbal Ram",
+              "hindiName": "स्व. बीरबल राम",
+              "children": [
+                { "englishName": "Sandeep Kumar Paswan", "hindiName": "संदीप कुमार पासवान", "children": [] },
+                { "englishName": "Yashwant Kumar Paswan", "hindiName": "यशवंत कुमार पासवान", "children": [] }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
